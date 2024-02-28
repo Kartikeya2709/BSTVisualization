@@ -20,8 +20,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 
 ## FUNCTIONALITY
+
 -ADD a NODE
+
 -DELETE a NODE
+
 -INORDER/PRE-ORDER/POST-ORDER TRAVERSAL Visualization for better Understanding
 
 ## Dependency Management
